@@ -1,0 +1,9 @@
+{
+	"name": "dev10923",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6ee34168-28e2-441c-aa5c-523d880e9a62",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
