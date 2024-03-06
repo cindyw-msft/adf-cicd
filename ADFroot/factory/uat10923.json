@@ -1,0 +1,9 @@
+{
+	"name": "uat10923",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8022131d-a185-4fd4-9d16-f111402d0c28",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
